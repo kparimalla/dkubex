@@ -1,4 +1,4 @@
-    """An example showing how to use Pytorch Lightning training, Ray Tune
+"""An example showing how to use Pytorch Lightning training, Ray Tune
 HPO, and MLflow autologging all together."""
 import os
 import tempfile
